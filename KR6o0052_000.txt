@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 解脫道論
+#+DATE: 2015-08-30 21:00:03.779800
+#+PROPERTY: JUAN 0
