@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:03.270637
+#+DATE: 2015-08-30 21:00:05.210347
 #+TITLE: 解脫道論
 #+PROPERTY: CBETA_ID T32n1648
 #+PROPERTY: ID KR6o0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1648
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6o0052_T_000-0399c>¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6o0052_T_006-0424a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6o0052_T_006-0424a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《解脫道論》卷第六¶
+《解脫道論》卷第六¶
 ¶
 阿羅漢優波底沙梁言大光造¶
 梁扶南三藏僧伽婆羅譯¶
@@ -464,7 +463,7 @@
 謂八輩。沙門者。從聞成就故名沙門。僧者¶
 聖和合眾。可請可供養可施可恭敬。無上¶
 世間福田。可請者。堪受請名為可請。可供¶
-養者。於眾施成大果堪受供養。可施者。若¶
+養者。於眾施成大果堪受供養。可施可施者。若¶
 於眾施得大果報。可恭敬者。堪受恭敬事名¶
 可恭敬。無上者。最多功德故名無上。世間福
 <pb:KR6o0052_T_006-0429a>¶
