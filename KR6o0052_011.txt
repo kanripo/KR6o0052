@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:03.437405
+#+DATE: 2015-08-30 21:00:08.626496
 #+TITLE: 解脫道論
 #+PROPERTY: CBETA_ID T32n1648
 #+PROPERTY: ID KR6o0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1648
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0052_T_000-0399c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0052_T_011-0452a> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《解脫道論》卷第十一¶
+《解脫道論》卷第十一¶
 ¶
 阿羅漢優波底沙梁言大光造¶
 梁扶南三藏僧伽婆羅譯¶
@@ -162,11 +161,7 @@
 知。以此行於聖諦知令起。此謂聖諦方便(聖諦方便¶
 已竟)。¶
 
-12分別諦品
-:PROPERTIES:
-:head: 《解脫道論》分別諦品第十二之一
-:END:
-
+《解脫道論》分別諦品第十二之一
 <pb:KR6o0052_T_011-0453c>¶
 
 爾時坐禪人。已明了陰界入因緣諦。已得聞¶
@@ -432,7 +427,7 @@
 　共地此最羸¶
 　相應亦最羸
 　和合亦最羸¶
-　展轉此常羸
+　展轉此常臝
 　展轉法不住
 <pb:KR6o0052_T_011-0456b>¶
 　亦無性展轉
