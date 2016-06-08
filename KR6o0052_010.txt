@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:03.397475
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:52
 #+TITLE: 解脫道論
 #+PROPERTY: CBETA_ID T32n1648
 #+PROPERTY: ID KR6o0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1648
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0052_T_000-0399c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0052_T_010-0445c> ¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《解脫道論》卷第十¶
+《解脫道論》卷第十¶
 ¶
 阿羅漢優波底沙梁言大光造¶
 梁扶南三藏僧伽婆羅譯¶
 
-11五方便品
-:PROPERTIES:
-:head: 五方便品第十一之一
-:END:
-¶
+* 五方便品第十一之一¶
 
 於是初坐禪人樂脫老死。樂除生死因。樂除¶
 無明闇。樂斷愛繩。樂得聖慧。於五處當起方¶
@@ -579,9 +574,9 @@
 「　業不與他共
 　是藏他不偷¶
 　人所作功德
-　其自得善報
+　其自得善報」
 #+END_VERSE
-」¶
+¶
 
 如是分別可知。問云何以相攝。答四種相攝。¶
 陰相攝。入相攝。界相攝。諦相攝。於是無明行¶

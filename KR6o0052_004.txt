@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:03.209927
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:52
 #+TITLE: 解脫道論
 #+PROPERTY: CBETA_ID T32n1648
 #+PROPERTY: ID KR6o0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1648
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0052_T_000-0399c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0052_T_004-0412b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《解脫道論》卷第四¶
+《解脫道論》卷第四¶
 ¶
 阿羅漢優波底沙梁言大光造¶
 梁扶南三藏僧伽婆羅譯¶
 
-8行門品
-:PROPERTIES:
-:head: 行門品第八之一
-:END:
-¶
+* 行門品第八之一¶
 
 問云何地一切入。何修何相何味何處。何功¶
 德。一切入者何義。幾種地何地取相。云何作¶
@@ -42,9 +37,9 @@
 　觀地一切入
 　周滿閻浮提¶
 　此觀緣地生
-　心喜亦如是
+　心喜亦如是」
 #+END_VERSE
-」¶
+¶
 
 修如是觀。見曼陀羅遍一切入。問地幾種。¶
 何地取相可修。答地有二種。一自相地。二造¶

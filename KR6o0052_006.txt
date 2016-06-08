@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:03.270637
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:52
 #+TITLE: 解脫道論
 #+PROPERTY: CBETA_ID T32n1648
 #+PROPERTY: ID KR6o0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1648
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0052_T_000-0399c>¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6o0052_T_006-0424a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6o0052_T_006-0424a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《解脫道論》卷第六¶
+《解脫道論》卷第六¶
 ¶
 阿羅漢優波底沙梁言大光造¶
 梁扶南三藏僧伽婆羅譯¶
@@ -247,9 +246,9 @@
 　既已修骨想
 　普令滿此地¶
 　我知彼比丘
-　速當斷欲染(十不淨已竟)
+　速當斷欲染(十不淨已竟)」
 #+END_VERSE
-」¶
+¶
 
 問云何念佛。何修何相何味何處何功德。云¶
 何修行。答佛者。世尊自然無師。於未聞法¶
